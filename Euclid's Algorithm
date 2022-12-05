@@ -1,0 +1,7 @@
+"C:\Users\Johan Azambou\AppData\Local\Programs\Python\Python39\python.exe" "C:/Users/Johan Azambou/PycharmProjects/alpha/Euclid's Algorithm.py"
+gcd( 10 , 15 ) =  5
+gcd( 31 , 2 ) =  1
+The extended Euclidean algorithm also finds integer coefficients x and y such that: ax + by = gcd(a, b) 
+95 ( -5 ) + 17 ( 28 ) =  1
+
+Process finished with exit code 0
